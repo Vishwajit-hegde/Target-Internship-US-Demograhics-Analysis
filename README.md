@@ -3,7 +3,7 @@ This analysis is a part of my internship at Target Corp. \
 The analysis is aimed at identifying different areas which have similar demographical features using clustering. 
 ## Web Scraping US demographics data
 The required data is at 5-digit zip code level. There are totally 33120 zip codes. The data is available on US census bureau website. There are different data tables 
-with data at different levels of granularity. The data sets are available with 27000 attributes, 18000 attributes and 1000 attributes respectively.
+with data at different levels of granularity. The data sets are available with 27000 attributes, 18000 attributes and 1000 attributes.
 I chose the one with around 1000 attributes. Data can be downloaded using the census api or directly from the website. 
 The descriptions of these attributes are extracted using BeautifulSoup library.
 ## Attributes Analysis
