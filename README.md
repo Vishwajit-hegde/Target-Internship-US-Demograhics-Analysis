@@ -5,7 +5,7 @@ The analysis is aimed at identifying different areas which have similar demograp
 The required data is at 5-digit zip code level. There are totally 33120 zip codes. The data is available on US census bureau website. There are different data tables 
 with data at different levels of granularity. The data sets are available with 27000 attributes, 18000 attributes and 1000 attributes respectively.
 I chose the one with around 1000 attributes. Data can be downloaded using the census api or directly from the website. 
-The descriptions of these attributes are extracted using BeautifulSoup libaray.
+The descriptions of these attributes are extracted using BeautifulSoup library.
 ## Attributes Analysis
 The attributes descriptions are organised in a way which is helpful to understand them.
 ## Data Cleaning
