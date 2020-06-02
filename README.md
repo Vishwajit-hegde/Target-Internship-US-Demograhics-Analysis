@@ -1,5 +1,5 @@
 # US-Demograhics-Analysis
-This analysis is a part of my internship at Target Corp. \\
+This analysis is a part of my internship at Target Corp. \
 The analysis is aimed at identifying different areas which have similar demographical features using clustering. 
 ## Web Scraping US demographics data
 The required data is at 5-digit zip code level. There are totally 33120 zip codes. The data is available on US census bureau website. There are different data tables 
