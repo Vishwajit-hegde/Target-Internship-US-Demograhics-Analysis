@@ -8,6 +8,7 @@ I chose the one with around 1000 attributes. Data can be downloaded using the ce
 The descriptions of these attributes are extracted using BeautifulSoup library.
 ## Attributes Analysis
 The attributes descriptions are organised in a way which is helpful to understand them.
+Link for the set of attributes : https://docs.google.com/spreadsheets/d/12FNr4bnjOvs-K22jGMa6JODXgmd99ko6-kE7GCoU8V8/edit#gid=158839567
 ## Data Cleaning
 Zip codes corresponding to Puerto Rico have a separate list of attributes. They are combined with the attributes of other zip codes
 as I did not see a need for a separate set. Each attribute contains the estimate, percent estimate, margin error, percent margin error.
