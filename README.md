@@ -7,7 +7,7 @@ with data at different levels of granularity. The data sets are available with 2
 I chose the one with around 1000 attributes. Data can be downloaded using the census api or directly from the website. 
 The descriptions of these attributes are extracted using BeautifulSoup library.
 ## Attributes Analysis
-The attributes descriptions are organised in a way which is helpful to understand them.
+The attributes descriptions are organised in a way which is helpful to understand them. \
 Link for the set of attributes : https://docs.google.com/spreadsheets/d/12FNr4bnjOvs-K22jGMa6JODXgmd99ko6-kE7GCoU8V8/edit#gid=158839567
 ## Data Cleaning
 Zip codes corresponding to Puerto Rico have a separate list of attributes. They are combined with the attributes of other zip codes
