@@ -1,3 +1,3 @@
-[embed]https://drive.google.com/file/d/1RiasZcRkl8FT-e6a8GPyc_lZJQ3VCUrT/view?usp=sharing[/embed]
+[embed]https://github.com/Vishwajit-hegde/US-Demograhics-Analysis/blob/master/Internship_Project_Report.pdf[/embed]
 
 
